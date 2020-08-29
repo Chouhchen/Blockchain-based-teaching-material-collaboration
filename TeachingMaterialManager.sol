@@ -2,6 +2,7 @@
 pragma solidity ^0.6.9;
 pragma experimental ABIEncoderV2;
 import "./ABDKMathQuad.sol";
+// https://github.com/abdk-consulting/abdk-libraries-solidity BSD License
 
 contract TeachingMaterialManager{
     struct Material{
